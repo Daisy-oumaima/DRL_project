@@ -4,7 +4,7 @@ Système de trading automatisé qui combine **apprentissage par renforcement pro
 Idée centrale : compresser 20 jours de données de marché (24 à 26 variables) en un vecteur latent de 32 dimensions, puis donner ce vecteur comme *état* à l'agent, au lieu des variables brutes et bruitées.
 
 > Projet académique (ENSAM Casablanca, module Deep Reinforcement Learning), réalisé en binôme avec **Imane Afandi**, encadré par **Pr. Badr Hirchoua**.
-> ⚠️ Projet pédagogique : ce n'est pas un conseil financier.
+>  Projet pédagogique : ce n'est pas un conseil financier.
 
 ## Pipeline
 
