@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+yfinance
+pandas-datareader
+torch
+gymnasium
+stable-baselines3[extra]
+quantstats
+streamlit
+plotly
+pyngrok
